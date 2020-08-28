@@ -1,0 +1,8 @@
+node_modules/
+jspm_packages/
+
+*.html
+*.pdf
+
+package-lock.json
+

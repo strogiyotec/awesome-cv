@@ -1,0 +1,28 @@
+{
+  "name": "awesome-cv",
+  "version": "1.0.0",
+  "description": "Awesome CV of the awesome developer(me). Build using https://github.com/jsonresume",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strogiyotec/awesome-cv.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/strogiyotec/awesome-cv/issues"
+  },
+  "homepage": "https://github.com/strogiyotec/awesome-cv#readme",
+  "dependencies": {
+    "jsonresume-theme-kendall": "^0.1.19",
+    "jsonresume-theme-kwan": "0.0.2",
+    "resume-cli": "^1.2.8"
+  }
+}
