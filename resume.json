@@ -5,8 +5,8 @@
     "picture": "https://strogiyotec.github.io/images/author.png",
     "email": "almas337519@gmail.com",
     "phone": "778-580-5183",
-    "website": "strogiyotec.github.io/",
-    "summary": "Hi, my name is Almas Abdrazak.My experience in IT area is over 3 years. I started as  Android Developer (Kaspi Bank).Now I'm interesting in working for BACK-END services.I have been working for huge enterprise applications and startups as well so I know how to deliver features requested by business in the shortest amount of time. Also I'm interested in Database Theory and I'm a big fun of Postgres and Cassandra. In a free time I contribute to opensource, wirte my own projects and learn Japanese(because why not).",
+    "website": "https://strogiyotec.github.io/",
+    "summary": "Hi, my name is Almas Abdrazak. My experience in IT area is over 3 years. I am a Senior Backend Developer specialized in Java backend technologies, who have worked with microservice architectures, streaming apps, SQL databases and CI/CD pipelines. I'm interested in Database Theory and I'm a big fun of Postgres and Cassandra. In a free time I contribute to opensource, write my own projects and learn Japanese.",
     "location": {
       "address": "609 Robson Ave",
       "postalCode": "V3M 1M8",
@@ -31,24 +31,69 @@
         "url": "https://stackoverflow.com/users/8019439/almas-abdrazak"
       },
       {
-        "network": "Upwork",
+        "network": "upwork",
         "username": "Almas",
         "url": "https://www.upwork.com/o/profiles/users/~018a9c7ef58c2ec379/"
+      },
+      {
+        "network": "blog",
+        "username": "almas",
+        "url": "https://strogiyotec.github.io/"
       }
     ]
   },
   "work": [
     {
-      "company": "Pied Piper",
-      "position": "CEO/President",
-      "website": "http://piedpiper.com",
-      "startDate": "2013-12-01",
-      "endDate": "2014-12-01",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "company": "Devadmin",
+      "position": "Senior Backend developer",
+      "website": "https://devadmin.com/",
+      "startDate": "2018-05-01",
+      "summary": "Backend developer for one of the biggest video streaming sites aimed for Japanese audience",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
+			  "Backend development using Spring Boot and Java 8",
+			  "Database administration and support(Postgres,Memcached)",
+			  "Nginx",
+			  "Microservices using Rabbitmq"
+      ]
+    },
+    {
+      "company": "Technodom",
+      "position": "Middle Java developer",
+      "website": "https://www.technodom.kz/",
+      "startDate": "2017-09-01",
+	  "endDate":"2018-04-20",
+      "summary": "Backend development for one of the biggest online shopping site in Kazakhstan",
+      "highlights": [
+			  "Backend and frontend for site using Spring and JSP",
+			  "Spring",
+			  "SAP Hybris",
+			  "SAP HANA"
+      ]
+    },
+    {
+      "company": "Garage GPS",
+      "position": "Junior Java developer",
+      "website": "http://www.garage-gps.kz/",
+      "startDate": "2017-05-01",
+	  "endDate":"2017-09-01",
+      "summary": "Api development for mobile application that helps companies to automate business processes using GPS tracking",
+      "highlights": [
+			  "Spring Boot 2.0",
+			  "Postgres",
+			  "Memcached",
+			  "Api development"
+      ]
+    },
+    {
+      "company": "Kaspi Bank",
+      "position": "Android developer intern",
+      "website": "https://kaspi.kz/",
+      "startDate": "2015-02-01",
+	  "endDate":"2015-05-01",
+      "summary": "Mobile application for online banking system",
+      "highlights": [
+			  "Android development",
+			  "Frontend"
       ]
     }
   ],
@@ -62,7 +107,7 @@
       "gpa": "3.2"
     },
     {
-      "institution": "The International University of Information Technology. Bachelor of Computer Science",
+      "institution": "Douglas College Canada",
       "area": "Data Analytics",
       "studyType": "Post Bachelor Degree",
       "startDate": "2020-01-10",
@@ -81,10 +126,25 @@
       ]
     },
     {
-      "name": "Server administration",
+      "name": "GoLang development",
+      "level": "Middle",
+      "keywords": [
+		"GoLang"
+      ]
+    },
+    {
+      "name": "Database prototiping and optimizations",
       "level": "Middle",
       "keywords": [
         "Postgres",
+        "Cassandra",
+		"Memcached"
+      ]
+    },
+    {
+      "name": "Server administration",
+      "level": "Middle",
+      "keywords": [
         "Linux(Debian)",
         "Nginx"
       ]
@@ -106,11 +166,12 @@
   ],
   "interests": [
     {
-      "name": "Wildlife",
-      "keywords": [
-        "Ferrets",
-        "Unicorns"
-      ]
+	  "keywords": [
+			  "Linux",
+			  "Open Source",
+			  "Languages",
+			  "Reading Books"
+	  ]
     }
   ]
 }
