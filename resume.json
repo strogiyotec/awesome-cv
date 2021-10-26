@@ -1,177 +1,206 @@
 {
-  "basics": {
-    "name": "Almas Abdrazak",
-    "label": "Java Backend developer",
-    "picture": "https://strogiyotec.github.io/images/author.png",
-    "email": "almas337519@gmail.com",
-    "phone": "778-580-5183",
-    "website": "https://strogiyotec.github.io/",
-    "summary": "Hi, my name is Almas Abdrazak. My experience in IT area is over 3 years. I am a Senior Backend Developer specialized in Java backend technologies, who have worked with microservice architectures, streaming apps, SQL databases and CI/CD pipelines. I'm interested in Database Theory and I'm a big fun of Postgres and Cassandra. In a free time I contribute to opensource, write my own projects and learn Japanese.",
-    "location": {
-      "address": "609 Robson Ave",
-      "postalCode": "V3M 1M8",
-      "city": "New Westminster",
-      "countryCode": "Canada",
-      "region": "British Columbia"
+    "basics": {
+        "name": "Almas Abdrazak",
+        "label": "Java Backend developer",
+        "picture": "https://strogiyotec.github.io/images/author.png",
+        "email": "almas337519@gmail.com",
+        "phone": "778-580-5183",
+        "website": "https://strogiyotec.github.io/",
+        "summary": "Hi, my name is Almas Abdrazak. My experience in IT area is over 4 years. I am a Senior Backend Developer specialized in Java backend technologies, who have worked with microservice architectures, streaming apps, SQL databases and CI/CD pipelines. I'm interested in Database Theory and I'm a big fun of Postgres and Cassandra. In a free time I contribute to opensource, write my own projects and learn Chinese.",
+        "location": {
+            "address": "609 Robson Ave",
+            "postalCode": "V3M 1M8",
+            "city": "New Westminster",
+            "countryCode": "Canada",
+            "region": "British Columbia"
+        },
+        "profiles": [
+            {
+                "network": "LinkedIn",
+                "username": "almas",
+                "url": "https://www.linkedin.com/in/almas-abdrazak-01882515b/"
+            },
+            {
+                "network": "GitHub",
+                "username": "strogiyotec",
+                "url": "https://github.com/strogiyotec"
+            },
+            {
+                "network": "stackoverflow",
+                "username": "strogiyotec",
+                "url": "https://stackoverflow.com/users/8019439/almas-abdrazak"
+            },
+            {
+                "network": "upwork",
+                "username": "Almas",
+                "url": "https://www.upwork.com/o/profiles/users/~018a9c7ef58c2ec379/"
+            },
+            {
+                "network": "blog",
+                "username": "almas",
+                "url": "https://strogiyotec.github.io/"
+            }
+        ]
     },
-    "profiles": [
-      {
-        "network": "LinkedIn",
-        "username": "almas",
-        "url": "https://www.linkedin.com/in/almas-abdrazak-01882515b/"
-      },
-      {
-        "network": "GitHub",
-        "username": "strogiyotec",
-        "url": "https://github.com/strogiyotec"
-      },
-      {
-        "network": "stackoverflow",
-        "username": "strogiyotec",
-        "url": "https://stackoverflow.com/users/8019439/almas-abdrazak"
-      },
-      {
-        "network": "upwork",
-        "username": "Almas",
-        "url": "https://www.upwork.com/o/profiles/users/~018a9c7ef58c2ec379/"
-      },
-      {
-        "network": "blog",
-        "username": "almas",
-        "url": "https://strogiyotec.github.io/"
-      }
+    "work": [
+        {
+            "company": "Matidor INC",
+            "position": "Senior Backend developer",
+            "website": "https://matidor.com/",
+            "startDate": "2020-09-01",
+            "endDate": "2021-07-20",
+            "summary": "Freelance position, I was working on a backend part of a Ultimate Location Visualization and Data Collaboration Tool Matidor",
+            "highlights": [
+                "Backend Development with Java 11 , Spring Boot",
+                "MySql",
+                "AWS",
+                "S3"
+            ]
+        },
+        {
+            "company": "Devadmin",
+            "position": "Senior Backend developer",
+            "website": "https://devadmin.com/",
+            "startDate": "2018-05-01",
+            "endDate": "2019-12-20",
+            "summary": "Backend developer for one of the biggest video streaming sites aimed for Japanese audience.",
+            "highlights": [
+                "Backend development using Spring Boot and Java 8",
+                "Database administration and support(Postgres,Memcached)",
+                "Nginx",
+                "Microservices using Rabbitmq"
+            ]
+        },
+        {
+            "company": "Technodom",
+            "position": "Middle Java developer",
+            "website": "https://www.technodom.kz/",
+            "startDate": "2017-09-01",
+            "endDate": "2018-04-20",
+            "summary": "Backend development for one of the biggest online shopping site in Kazakhstan",
+            "highlights": [
+                "Backend and frontend for site using Spring and JSP",
+                "Spring",
+                "SAP Hybris",
+                "SAP HANA"
+            ]
+        },
+        {
+            "company": "Garage GPS",
+            "position": "Junior Java developer",
+            "website": "http://www.garage-gps.kz/",
+            "startDate": "2017-05-01",
+            "endDate": "2017-09-01",
+            "summary": "Api development for mobile application that helps companies to automate business processes using GPS tracking",
+            "highlights": [
+                "Spring Boot 2.0",
+                "Postgres",
+                "Memcached",
+                "Api development"
+            ]
+        },
+        {
+            "company": "Kaspi Bank",
+            "position": "Android developer intern",
+            "website": "https://kaspi.kz/",
+            "startDate": "2015-02-01",
+            "endDate": "2015-05-01",
+            "summary": "Mobile application for online banking system",
+            "highlights": [
+                "Android development",
+                "Frontend"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "The International University of Information Technology. Bachelor of Computer Science",
+            "area": "Information Technology",
+            "studyType": "Bachelor",
+            "startDate": "2015-09-01",
+            "endDate": "2019-06-15",
+            "gpa": "3.2"
+        },
+        {
+            "institution": "Douglas College Canada",
+            "area": "Data Analytics",
+            "studyType": "Post Bachelor Degree",
+            "startDate": "2020-01-10",
+            "endDate": "2021-12-20",
+            "gpa": "3.6"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Java Backend developer",
+            "level": "Senior",
+            "keywords": [
+                "Java",
+                "Spring",
+                "JVM",
+                "Maven"
+            ]
+        },
+        {
+            "name": "GoLang developer",
+            "level": "Middle",
+            "keywords": [
+                "GoLang"
+            ]
+        },
+        {
+            "name": "Database prototiping and optimizations",
+            "level": "Middle",
+            "keywords": [
+                "Postgres",
+                "Cassandra",
+                "Memcached",
+                "Reddis"
+            ]
+        },
+        {
+            "name": "Devops",
+            "level": "Middle",
+            "keywords": [
+                "Docker",
+                "Kubernetes",
+                "Git"
+            ]
+        },
+        {
+            "name": "Server administration",
+            "level": "Middle",
+            "keywords": [
+                "Linux(Debian)",
+                "Nginx",
+                "Kafka",
+                "Postgres",
+                "Memcached"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "Russian",
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "English",
+            "fluency": " Professional working proficiency"
+        },
+        {
+            "language": "Chinese",
+            "fluency": "Elementary"
+        }
+    ],
+    "interests": [
+        {
+            "keywords": [
+                "Linux",
+                "Open Source",
+                "Languages",
+                "Reading Books"
+            ]
+        }
     ]
-  },
-  "work": [
-    {
-      "company": "Devadmin",
-      "position": "Senior Backend developer",
-      "website": "https://devadmin.com/",
-      "startDate": "2018-05-01",
-      "summary": "Backend developer for one of the biggest video streaming sites aimed for Japanese audience",
-      "highlights": [
-			  "Backend development using Spring Boot and Java 8",
-			  "Database administration and support(Postgres,Memcached)",
-			  "Nginx",
-			  "Microservices using Rabbitmq"
-      ]
-    },
-    {
-      "company": "Technodom",
-      "position": "Middle Java developer",
-      "website": "https://www.technodom.kz/",
-      "startDate": "2017-09-01",
-	  "endDate":"2018-04-20",
-      "summary": "Backend development for one of the biggest online shopping site in Kazakhstan",
-      "highlights": [
-			  "Backend and frontend for site using Spring and JSP",
-			  "Spring",
-			  "SAP Hybris",
-			  "SAP HANA"
-      ]
-    },
-    {
-      "company": "Garage GPS",
-      "position": "Junior Java developer",
-      "website": "http://www.garage-gps.kz/",
-      "startDate": "2017-05-01",
-	  "endDate":"2017-09-01",
-      "summary": "Api development for mobile application that helps companies to automate business processes using GPS tracking",
-      "highlights": [
-			  "Spring Boot 2.0",
-			  "Postgres",
-			  "Memcached",
-			  "Api development"
-      ]
-    },
-    {
-      "company": "Kaspi Bank",
-      "position": "Android developer intern",
-      "website": "https://kaspi.kz/",
-      "startDate": "2015-02-01",
-	  "endDate":"2015-05-01",
-      "summary": "Mobile application for online banking system",
-      "highlights": [
-			  "Android development",
-			  "Frontend"
-      ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "The International University of Information Technology. Bachelor of Computer Science",
-      "area": "Information Technology",
-      "studyType": "Bachelor",
-      "startDate": "2015-09-01",
-      "endDate": "2019-06-15",
-      "gpa": "3.2"
-    },
-    {
-      "institution": "Douglas College Canada",
-      "area": "Data Analytics",
-      "studyType": "Post Bachelor Degree",
-      "startDate": "2020-01-10",
-      "endDate": "2022-01-10",
-      "gpa": "3.6"
-    }
-  ],
-  "skills": [
-    {
-      "name": "Backend development",
-      "level": "Middle",
-      "keywords": [
-        "Java",
-        "Spring",
-		"JVM"
-      ]
-    },
-    {
-      "name": "GoLang development",
-      "level": "Middle",
-      "keywords": [
-		"GoLang"
-      ]
-    },
-    {
-      "name": "Database prototiping and optimizations",
-      "level": "Middle",
-      "keywords": [
-        "Postgres",
-        "Cassandra",
-		"Memcached"
-      ]
-    },
-    {
-      "name": "Server administration",
-      "level": "Middle",
-      "keywords": [
-        "Linux(Debian)",
-        "Nginx"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "Russian",
-      "fluency": "Native speaker"
-    },
-    {
-      "language": "English",
-      "fluency": " Professional working proficiency"
-    },
-    {
-      "language": "Japanese",
-      "fluency": "Elementary"
-    }
-  ],
-  "interests": [
-    {
-	  "keywords": [
-			  "Linux",
-			  "Open Source",
-			  "Languages",
-			  "Reading Books"
-	  ]
-    }
-  ]
 }

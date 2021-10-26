@@ -21,8 +21,12 @@
   },
   "homepage": "https://github.com/strogiyotec/awesome-cv#readme",
   "dependencies": {
+    "install": "^0.13.0",
+    "jsonresume-theme-even": "^0.4.1",
     "jsonresume-theme-kendall": "^0.1.19",
     "jsonresume-theme-kwan": "0.0.2",
+    "jsonresume-theme-modern": "0.0.18",
+    "npm": "^6.14.8",
     "resume-cli": "^1.2.8"
   }
 }
